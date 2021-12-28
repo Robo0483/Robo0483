@@ -4,7 +4,7 @@
   - Security +
   - Linux +
 
-## 😄 Current Certifications!
+## 👨‍💻 Current Certifications!
   - Microsoft AZ-900 Azure Fundamentals
   - Splunk 7.x Fundamentals eLearning
 
