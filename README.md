@@ -2,8 +2,11 @@
 
 ## 🔭 I’m currently working on getting some of the following Certifications
   - Security +
-  - Azure Fundamentals AZ-900
   - Linux +
+
+## 😄 Current Certifications!
+  - Microsoft AZ-900 Azure Fundamentals
+  - Splunk 7.x Fundamentals eLearning
 
 ## 🌱 I’m currently learning
   - A lot about CyberSecurity
