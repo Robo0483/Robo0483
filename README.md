@@ -19,9 +19,6 @@
 ## 🤔 I’m looking for help with...
  - Anything that can give me a leg up!😄
 
-## Badges from Skillsoft
- - https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49943499
-
 ## 📫 How to reach me:
  - [ruben.r.rosario@protonmail.com](mailto:ruben.r.rosario@protonmail.com)
  - [LinkedIn](https://www.linkedin.com/in/rubenrrosario/)
