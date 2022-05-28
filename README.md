@@ -10,7 +10,6 @@
 
 ## 🌱 I’m currently learning
   - A lot about CyberSecurity
-  - A lot about Linux distros
   - A lot about Cloud
   
 ## 👯 I’m looking to collaborate on
@@ -18,6 +17,9 @@
  
 ## 🤔 I’m looking for help with...
  - Anything that can give me a leg up!😄
+ - Trying to learn Python 🐍
+ - Learning more about Docker 🐋
+ - Learning about Mobile Pentesting 📶
 
 ## 📫 How to reach me:
  - [ruben.r.rosario@protonmail.com](mailto:ruben.r.rosario@protonmail.com)
@@ -27,4 +29,6 @@
  - He/Him/His
   
 ## ⚡ Fun fact:
- - I used to work on movies before all of this CyberStuff! 
+ - I used to work on movies before all of this CyberStuff! 🎬
+ - I enjoy recording audio and podcasting 🎙️
+ - I collect tons of physical media! 📀 🎚️ 💿 📖
