@@ -9,8 +9,8 @@
   - Splunk 7.x Fundamentals eLearning
 
 ## 🌱 I’m currently learning
-  - A lot about CyberSecurity
-  - A lot about Cloud
+  - Learning IPsec
+  - Studying for the SC-900
   
 ## 👯 I’m looking to collaborate on
  - Anything with the right people!
