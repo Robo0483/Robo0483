@@ -6,11 +6,12 @@
 ## 👨‍💻 Current Certifications!
   - CompTIA Security +
   - Microsoft AZ-900 Azure Fundamentals
+  - Microsoft SC-900 Security, Compliance, and Identity Fundamentals
   - Splunk 7.x Fundamentals eLearning
 
 ## 🌱 I’m currently learning
-  - Learning IPsec
-  - Studying for the SC-900
+  - Learning IPsec!
+  - Learning about a bunch of CyberSecurity aspects!
   
 ## 👯 I’m looking to collaborate on
  - Anything with the right people!
