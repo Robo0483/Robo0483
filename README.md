@@ -1,12 +1,12 @@
 ### Hi there! I'm Ruben Rosario and this is my GitHub! 👋
 
 ## 🔭 I’m currently working on getting some of the following Certifications
-  - Google Cloud Digital Leader ☁️
+  - SSCP :toolbox:
 
 ## 👨‍💻 Current Certifications!
   - CompTIA Security + 🛡️
-  - Microsoft AZ-900 Azure Fundamentals 🛡️
-  - Microsoft SC-900 Security, Compliance, and Identity Fundamentals 🛡️
+  - Microsoft AZ-900 Azure Fundamentals :cloud:
+  - Microsoft SC-900 Security, Compliance, and Identity Fundamentals :cloud:
   - Splunk 7.x Fundamentals eLearning ▶️
 
 ## 🌱 I’m currently learning
